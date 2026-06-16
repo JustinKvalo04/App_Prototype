@@ -48,6 +48,8 @@ Responsibilities included:
 ## Prototype
 
 View Interactive Prototype:
+ 
+https://www.figma.com/proto/xMATYH4LFfRo242K3hjXAS/Penny-Group?node-id=16-106&starting-point-node-id=16%3A106&t=tDLk0wxJdxk6WPk9-1
 
 [Penny Group.pdf](https://github.com/user-attachments/files/28982051/Penny.Group.pdf)
 
