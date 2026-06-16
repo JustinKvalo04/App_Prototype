@@ -49,7 +49,7 @@ Responsibilities included:
 
 View Interactive Prototype:
 
-[Insert Figma Link]
+[Penny Group.pdf](https://github.com/user-attachments/files/28982051/Penny.Group.pdf)
 
 ## Key Takeaway
 
