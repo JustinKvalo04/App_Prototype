@@ -47,7 +47,7 @@ Responsibilities included:
 
 ## Prototype
 
-View Interactive Prototype:
+View Prototype:
 
 [Penny Group.pdf](https://github.com/user-attachments/files/28982051/Penny.Group.pdf)
 
